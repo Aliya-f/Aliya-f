@@ -1,4 +1,10 @@
-### Hi there 👋
+### Всем привет! 👋
+### Меня зовут Алия, я начинающий frontend-разработчик 💻
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 
 <!--
 **Aliya-f/Aliya-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
